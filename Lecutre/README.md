@@ -7,7 +7,7 @@
 ### Contents
 - Chapter01 머신러닝의 개념과 용어
 - Chapter02 Linear Regression 의 개념
-- Chapter0 Linear Regression cost함수 최소화
+- Chapter03 Linear Regression cost함수 최소화
 - Chapter04 여러개의 입력(feature)의 Linear Regression
 - Chapter05 Logistic (Regression) Classification
 - Chapter06 Softmax Regression (Multinomial Logistic Regression)

@@ -24,5 +24,5 @@
 - Chapter12 다중 머신과 장치를 위한 분산 텐서플로
 - Chapter13 합성곱 신경망
 - Chapter14 순환 신경망
-- Chapter15 오토인코
+- Chapter15 오토인코더
 - Chapter16 강화 학습

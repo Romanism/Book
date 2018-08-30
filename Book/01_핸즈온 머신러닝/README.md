@@ -1,6 +1,6 @@
 ## 핸즈온 머신러닝
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ### Contents
 
